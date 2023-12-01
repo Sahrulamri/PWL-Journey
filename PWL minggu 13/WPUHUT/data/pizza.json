@@ -1,0 +1,111 @@
+
+{
+    "menu": [
+        {
+            "kategori": "pizza",
+            "nama": "Meat Lover",
+            "deskripsi" : "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi" : "Irisan dagig ikan tuna, butiran jagung, saus mayonaise.",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "American Favourite",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "american-favourite.jpg"
+        },
+        {
+            "kategori": "beef",
+            "nama": "Beef Lasagna",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "beef-lasagna.jpg"
+        },
+        {
+            "kategori": "beef",
+            "nama": "beef Spaghetti",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "beef-spaghetti.jpg"
+        },
+        {
+            "kategori": "Chicken",
+            "nama": "black papper chicken",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "black-papper-chicken.jpg"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Choco Mint",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Chocolate Milkshake",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "chocolate-milkshake.jpg"
+        },
+        {
+            "kategori": "beef",
+            "nama": "Creamy Beef Fettuccine",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "creamy-beef-fettuccine.jpg"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Green Tea Shake",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "beef",
+            "nama": "Meatballs Beef Mushroom",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "meatballs-beef-mushroom.jpg"
+        },
+        {
+            "kategori": "Chicken",
+            "nama": "Oriental Chicken",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Stawberry Milkshake",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Toffee Coffee",
+            "deskripsi" : "Pepperoni sapi, daging sapi cincang, jamur",
+            "harga": 49500,
+            "gambar": "toffe-coffee.jpg"
+        }
+    ]
+}
+

@@ -1,0 +1,157 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 60px;
+    position: absolute;
+}
+
+header a {
+    font-size: 18px;
+    text-decoration: none;
+    color: aquamarine;
+    padding: 10px;
+    text-shadow: 1px 1px 2px black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    background-color: aquamarine;
+    border-radius: 5px;
+    color: azure;
+}
+
+header ul {
+    display: flex;
+}
+
+header li {
+    margin-left: 20px;
+}
+
+#logo a {
+    color: aquamarine;
+    font-family: "Audiowide", "sans-serif";
+    font-size: 50px;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black;
+}
+
+#hero {
+    height: 450px;
+    background-image: url("../images/product/tmn1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#hero-content {
+    width: 700px;
+    background-color: rgba(51, 47, 47, 0.8);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+    border-radius: 8px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px 0;
+    position: relative;
+    top: 80px;
+}
+
+#hero-content h1 {
+    color: white;
+    font-size: 50px;
+    font-family: "Audiowide";
+}
+
+#hero-content a {
+    background-color: rgb(255, 251, 0);
+    text-decoration: none;
+    padding: 12px 24px;
+    font-size: 24px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 8px rgb(79, 77, 77);
+}
+
+#hero-content p {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 32px;
+    font-family: "Sofia";
+}
+
+footer {
+    background: linear-gradient(70deg, rgb(24,24,24),rgb(25,29,29));
+    padding: 40px;
+}
+
+footer ul {
+    display:flex;
+    justify-content: center;
+    /* padding: 40px; */
+}
+footer li {
+    width: flex;
+    height: 80px;
+    margin: 50px 50px;
+}
+
+footer img {
+    width: 100%;
+    height: 100%;
+    box-shadow: 2px 4px 8px rgb(79, 77, 77);
+}
+#hero-content a:hover {
+    background-color: rgb(158, 149, 147);
+}
+
+#destinations {
+    display:flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+.destination {
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+.destination img {
+    height: 200px;
+    width: 100%;
+    box-shadow: 2px 4px 8px rgb(68,67,67);
+    border-radius: 10px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.destination p {
+    text-align: center;
+    font-size: 24px;
+    color:rgb(124,123,123)
+}
+
+.destination strong {
+    color: rgb(0,160,117);
+}
+
+#highlights{
+    padding: 24px;
+    /* background-color: saddlebrown; */
+    background: linear-gradient(45deg, rgb(277,255,253),rgb(10,133,126));
+}
+
+#highligts h2 {
+    text-transform: uppercase;
+}
